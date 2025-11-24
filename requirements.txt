@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-groq
+langchain-huggingface 
+sentence_transformers
+langchain-chroma
+langchain-community
+langchain_core
+pypdf
+bs4
+wikipedia
