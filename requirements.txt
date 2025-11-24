@@ -9,3 +9,7 @@ langchain_core
 pypdf
 bs4
 wikipedia
+crewai
+crewai-tools
+qdrant-client
+litellm
